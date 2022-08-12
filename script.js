@@ -30,8 +30,9 @@
         }      
 
         function display(data){   
-            document.querySelector(`.jour${i}`).innerHTML=  ''
+            
                 for(let i = 0; i<4; i++) {    
+                    document.querySelector(`.jour${i}`).innerHTML=  ''
                     for(let j = 0; j<4; j++){
                         document.querySelector(`.jour${i}`).innerHTML +=`
                         <div class='section${j}'>
