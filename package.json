@@ -1,0 +1,11 @@
+{
+  "name": "api_meteo",
+  "version": "0.1.0",
+  "description": "an api meteo with javascript vanilla",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "formboy",
+  "license": "ISC"
+}
